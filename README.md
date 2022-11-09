@@ -4,4 +4,4 @@ create an application that allows you to select from a list of empoyee roles and
 Once the info is imported and stored locally, export it to an html to show your teams work structure / info.
 
 Video Walkthrough:
-https://drive.google.com/file/d/1lBFI0cJReYDN0nJzFERWT-rcKy0Nte15/view
+https://drive.google.com/file/d/1jIeQFC_hUuJuFWfOura5wyw-hRlKdeGa/view
